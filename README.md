@@ -1,4 +1,4 @@
-# Image-Compression-with-an-Autoencoder-Neural-Network
+# Image Compression with an Autoencoder Neural Network
 
 ## Intro
 In what acted as a final project for my two semester class on neural networks and deep learning, my project partner Austin Perera and I created and presented a poster as a part of Colby College's Liberal Arts Symposium. In this project we used Tensorflow's low level API to build and explore the inner workings of how an autoencoder processes images, and how changes in parameters affect the network's outputs. The results of the explorations were then synthesized and displayed for a poster presentation held during the annual CLAS, or Colby Liberal Arts Symposium. 
